@@ -1,0 +1,1 @@
+# bynder-compact-view-vue
